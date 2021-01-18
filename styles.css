@@ -1,0 +1,11 @@
+#title {
+    font-size: 20;
+    text-align: center;
+}
+.header {
+    color: rgb(163,57,212);
+}
+li {
+    font-weight:bold;
+    color: rgb(255,0,0);
+}
